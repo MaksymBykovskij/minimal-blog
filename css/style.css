@@ -1,0 +1,17 @@
+/* =========== RESET CSS ============= */
+@import url('reset.css');
+
+/* ========== COMMON STYLES ============ */
+@import url('common.css');
+
+/* ========= HEADER STYLE ============== */
+@import url('header.css');
+
+/* ========== FOOTER STYLE ============= */
+@import url('footer.css');
+
+/* ========= HOME PAGE STYLE =========== */
+@import url('homepage.css');
+
+/* ======== ARTICLE PAGE STYLE ========== */
+@import url('article.css');
